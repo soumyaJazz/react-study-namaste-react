@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "study react from namaste react",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel public/index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
-  "browserslist":[
+  "browserslist": [
     "last 2 versions"
   ]
 }

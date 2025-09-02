@@ -1,0 +1,391 @@
+{
+  "restaurants": [
+    {
+      "info": {
+        "id": "14777",
+        "name": "Pizza Hut",
+        "cloudinaryImageId": "https://as1.ftcdn.net/jpg/01/33/61/72/1000_F_133617244_dWdivRXwoLVzowl1kn3iFP9JGcuNd8n6.jpg",
+        "locality": "Hadapsar",
+        "areaName": "Magarpatta",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Pizzas"],
+        "avgRating": 4.2,
+        "parentId": "721",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "7.7K+",
+        "sla": {
+          "deliveryTime": 32,
+          "lastMileTravel": 4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "4.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2025-09-01 06:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Pizza.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹99"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-8293094f-f118-42bd-8897-f34d0b6f1b3d"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/pune/pizza-hut-hadapsar-magarpatta-rest14777",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "63455",
+        "name": "Chinese Wok",
+        "cloudinaryImageId": "https://as2.ftcdn.net/jpg/02/68/50/29/1000_F_268502905_IWGrN1kHECsQ3JO50PQtiEDdjtF2oCex.jpg",
+        "locality": "Season Mall",
+        "areaName": "Magarpatta",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Chinese", "Asian", "Tibetan", "Desserts"],
+        "avgRating": 4.1,
+        "parentId": "61955",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "5.0K+",
+        "sla": {
+          "deliveryTime": 57,
+          "lastMileTravel": 4.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "55-60 mins",
+          "lastMileTravelString": "4.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2025-08-31 23:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹129"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-8293094f-f118-42bd-8897-f34d0b6f1b3d"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/pune/chinese-wok-season-mall-magarpatta-rest63455",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "159428",
+        "name": "Burger King",
+        "cloudinaryImageId": "https://as1.ftcdn.net/jpg/05/91/90/82/1000_F_591908206_ibXQDVOpjlIjtjTXz6mYKr7LjYIHp2ZC.jpg",
+        "locality": "Amanora Town",
+        "areaName": "Hadapsar",
+        "costForTwo": "₹350 for two",
+        "cuisines": ["Burgers", "American"],
+        "avgRating": 4.3,
+        "parentId": "166",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "16K+",
+        "sla": {
+          "deliveryTime": 46,
+          "lastMileTravel": 4.8,
+          "serviceability": "SERVICEABLE",
+          "slaString": "45-50 mins",
+          "lastMileTravelString": "4.8 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2025-09-01 04:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹59"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-8293094f-f118-42bd-8897-f34d0b6f1b3d"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/pune/burger-king-amanora-town-hadapsar-rest159428",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "66188",
+        "name": "The Belgian Waffle Co.",
+        "cloudinaryImageId": "https://as1.ftcdn.net/v2/jpg/00/71/95/70/1000_F_71957040_b03TElKCyZV2LtHEwIkmIXwIsJNjXmzy.jpg",
+        "locality": "Destination Centre",
+        "areaName": "Magarpatta",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Waffle", "Desserts", "Ice Cream", "Beverages"],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "2233",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "5.8K+",
+        "sla": {
+          "deliveryTime": 34,
+          "lastMileTravel": 4.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30-35 mins",
+          "lastMileTravelString": "4.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2025-09-01 02:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "Rxawards/_CATEGORY-Desserts.png",
+              "description": "Delivery!"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Delivery!",
+                    "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-8293094f-f118-42bd-8897-f34d0b6f1b3d"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/pune/the-belgian-waffle-co-destination-centre-magarpatta-rest66188",
+        "type": "WEBLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "473827",
+        "name": "BOX8 - Desi Meals",
+        "cloudinaryImageId": "https://as1.ftcdn.net/jpg/07/23/89/30/1000_F_723893056_2Jx1osOh4zuiGOe0w6w45gTZHIenVjPi.jpg",
+        "locality": "Keshav Nagar",
+        "areaName": "Magarpatta",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Biryani", "Thalis", "Home Food"],
+        "avgRating": 4.5,
+        "parentId": "10655",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "3.0K+",
+        "sla": {
+          "deliveryTime": 25,
+          "lastMileTravel": 1.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-30 mins",
+          "lastMileTravelString": "1.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2025-09-01 02:00:00",
+          "opened": true
+        },
+        "badges": {
+          "imageBadges": [
+            {
+              "imageId": "android/static-assets/icons/big_rx.png",
+              "description": "bolt!"
+            }
+          ],
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "options available",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "bolt!",
+                    "imageId": "android/static-assets/icons/big_rx.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "",
+                    "fontColor": "#7E808C",
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹99"
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+          "aggregatedRating": {
+            "rating": "--"
+          }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+      },
+      "analytics": {
+        "context": "seo-data-8293094f-f118-42bd-8897-f34d0b6f1b3d"
+      },
+      "cta": {
+        "link": "https://www.swiggy.com/city/pune/box8-desi-meals-keshav-nagar-magarpatta-rest473827",
+        "type": "WEBLINK"
+      }
+    }
+  ]
+}
