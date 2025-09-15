@@ -25694,3 +25694,4 @@ export const restaurantMenuList = {
     ],
   },
 };
+export default restaurantMenuList;

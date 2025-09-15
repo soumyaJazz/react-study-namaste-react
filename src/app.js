@@ -8,9 +8,14 @@ import ErrorPage from "./components/ErrorPage";
 import { About } from "./components/About";
 import ContactUs from "./components/ContactUs";
 import RestraurantMenuList from "./components/RestraurantMenuList";
+import useIsInternetOnline from "./utils/useIsInternetOnline";
 
 // app layout
 const AppLayoutComponent = () => {
+  const isInternetOnline = useIsInternetOnline();
+  if (!isInternetOnline) {
+    return <p>Looks like you are offline</p>;
+  }
   return (
     <div>
       <HeaderComponent />
