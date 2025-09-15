@@ -1,5 +1,14 @@
+import { useState } from "react";
+import { Link } from "react-router-dom";
+
 //header
+
 const HeaderComponent = () => {
+  const [login, setLogin] = useState("Login");
+  const setLoginStatus = () => {
+    login === "Login" ? setLogin("Logout") : setLogin("Login");
+  };
+  console.log("Header Rendered");
   return (
     <div className="header">
       <img
@@ -8,9 +17,20 @@ const HeaderComponent = () => {
         alt="logo"
       />
       <ul className="menu-list">
-        <li className="menu-list-item">Home</li>
-        <li className="menu-list-item">About us</li>
-        <li className="menu-list-item">Contact Us</li>
+        <li className="menu-list-item">
+          <Link to="/">Home</Link>
+        </li>
+        <li className="menu-list-item">
+          <Link to="/about">About us</Link>
+        </li>
+        <li className="menu-list-item">
+          <Link to="/contact-us">Contact Us</Link>
+        </li>
+        <li className="menu-list-item">
+          <button onClick={setLoginStatus} style={{ minWidth: "60px" }}>
+            {login}
+          </button>
+        </li>
       </ul>
     </div>
   );

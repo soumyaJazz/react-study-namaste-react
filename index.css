@@ -1,3 +1,7 @@
+:root {
+  --primary-orange: #ff5200;
+}
+
 .company-logo {
   height: 6rem;
 }
@@ -98,5 +102,124 @@
   text-align: center;
   display: flex;
   flex-direction: column;
+  align-items: center;
+}
+
+.about-us-container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: auto auto;
+  height: 100vh;
+}
+
+.about-us-image-container {
+  flex-direction: column;
+  display: flex;
+  background-image: url("/public/assets/about-banner-image-scaled.webp");
+  width: 100%;
+  height: 70vh;
+  background-size: cover;
+  border-bottom: 2px solid var(--primary-orange);
+}
+
+.about-us-info {
+  text-align: center;
+}
+.about-us-info h2 {
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 49.92px;
+  letter-spacing: 0.03px;
+  font-family: ui-monospace;
+}
+
+.intro-text {
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: -0.35px;
+  text-align: center;
+  color: #02060c73;
+}
+
+.about-us-logo-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 7rem;
+}
+.about-us-company-logo {
+  height: 10rem;
+  text-align: center;
+}
+.menuList {
+  margin: 24px 16px 16px 16px;
+}
+.menu-item-container {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.5px solid #d3d3d3;
+  margin: 20px 0;
+  padding-bottom: 5rem;
+}
+.menu-item-container .food-name {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: -0.45px;
+  color: rgba(2, 6, 12, 0.75);
+}
+
+.menu-item-container .offer {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: -0.3px;
+  color: rgba(2, 6, 12, 0.6);
+}
+
+.add-item-btn {
+  background-color: transparent;
+  color: #1ba672;
+  border-color: #d9dadb;
+  border-radius: 2px;
+  padding: 4px 8px;
+  width: 130px;
+  appearance: none;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.add-item-btn-container {
+  background: rgb(255, 255, 255);
+  border: 1px solid rgba(2, 6, 12, 0.15);
+  height: 40px;
+  border-radius: 8px;
+  width: 120px;
+  position: relative;
+  overflow: hidden;
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  box-shadow: rgba(40, 44, 63, 0.08) 0px 3px 8px;
+}
+
+.food-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
 }
