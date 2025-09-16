@@ -21,6 +21,9 @@ const HeaderComponent = () => {
           <Link to="/">Home</Link>
         </li>
         <li className="menu-list-item">
+          <Link to="/grocery">Grocery</Link>
+        </li>
+        <li className="menu-list-item">
           <Link to="/about">About us</Link>
         </li>
         <li className="menu-list-item">
